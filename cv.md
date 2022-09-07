@@ -40,3 +40,10 @@ console.log(smash(arr));  // 'Glory to Ukraine'
 * Freelance, Front-End Developer (June 2020 – current time)
 * IT Insiders, Junior front-end developer/intern (April 2021 - June 2021)
 * ELFORT LLC, Senior technical sales engineer (January 2015 - April 2021)
+
+
+## Additional information
+* Authorized to work for any US employers
+* Fully vaccinated
+* English level is intermediate. Also speaking Ukrainian, Polish and Russian
+* My free time I spend with my family. I like hiking, fishing, photography
